@@ -23,5 +23,4 @@ This project showcases a basic GitHub profile page layout created with HTML, CSS
 Thank you for checking out this project! If you have any suggestions or feedback, feel free to reach me:
 
 **Mail ID:** 
-```bash
 rajkumaranbu192@gmail.com
