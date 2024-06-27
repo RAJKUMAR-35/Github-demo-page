@@ -16,7 +16,7 @@ A responsive layout for a GitHub profile page using HTML, CSS, and Bootstrap.
 
 ---
 
-**Conclusion:**
+## Conclusion:
 
 This project showcases a basic GitHub profile page layout created with HTML, CSS, and Bootstrap.
 
